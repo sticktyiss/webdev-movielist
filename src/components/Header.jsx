@@ -1,9 +1,9 @@
 const Header = () => {
   return (
-    <div>
+    <header>
       Header.jsx
-      <h2>Tyiss' Movie App</h2>
-    </div>
+      <h2>Tyiss' Header Movie App</h2>
+    </header>
   )
 }
 
